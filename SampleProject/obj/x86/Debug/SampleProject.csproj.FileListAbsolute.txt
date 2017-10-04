@@ -1,0 +1,1 @@
+C:\streams\bhargavaCCore-Staging\ICAClientCore\ClientSDKs\binaries\ICOSdk\Sample\binaries\ICOSdk\Sample\SampleProject\obj\x86\Debug\SampleProject.csproj.ResolveComReference.cache
